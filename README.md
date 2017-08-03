@@ -1,4 +1,4 @@
-# my-project
+# Vuejs Recipe Tracker
 
 > A Vue.js project
 
