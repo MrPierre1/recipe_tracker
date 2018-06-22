@@ -2,7 +2,7 @@
   "users": [
     {
       "id": 1,
-      "name": "Meal 66",
+      "name": "Meal 1",
       "description": "Its a great meal",
       "favorite": true,
       "steps": [
@@ -17,7 +17,7 @@
     },
     {
       "id": 2,
-      "name": "Meal 66",
+      "name": "Meal 2",
       "description": "Its a great meal",
       "favorite": false,
       "steps": [
@@ -32,7 +32,7 @@
     },
     {
       "id": 3,
-      "name": "Meal 444",
+      "name": "Meal 3",
       "description": "Its a great meal",
       "favorite": false,
       "date": "Today",
@@ -48,7 +48,7 @@
     },
     {
       "id": 4,
-      "name": "Meal 555",
+      "name": "Meal 4",
       "description": "Its a great meal",
       "favorite": true,
       "steps": [
@@ -63,7 +63,7 @@
     },
     {
       "id": 5,
-      "name": "Meal 666",
+      "name": "Meal 5",
       "description": "Its a great meal",
       "favorite": false,
       "steps": [
@@ -77,8 +77,8 @@
       "avatar": "https://z9u1l3wusky40y46t31hrkw2-wpengine.netdna-ssl.com/wp-content/uploads/2018/05/glutenfree-healthy-fudge-Brownie-recipe-768.jpg"
     },
     {
-      "id": 8,
-      "name": "Meal 669",
+      "id": 6,
+      "name": "Meal 6",
       "description": "Its a great meal",
       "favorite": false,
       "steps": [
@@ -90,30 +90,6 @@
         "ingredients26"
       ],
       "avatar": "http://z9u1l3wusky40y46t31hrkw2-wpengine.netdna-ssl.com/wp-content/uploads/2016/03/courgetteandcornfritters-vegetarian-resturaunts-in-london-by-healthista.jpg"
-    },
-    {
-      "name": "name",
-      "description": "des",
-      "avatar": "ikg",
-      "steps": [],
-      "ingredients": [],
-      "id": 9
-    },
-    {
-      "name": "ssss",
-      "description": "sss",
-      "avatar": "",
-      "steps": [],
-      "ingredients": [],
-      "id": 10
-    },
-    {
-      "name": "test",
-      "description": "test",
-      "avatar": "",
-      "steps": [],
-      "ingredients": [],
-      "id": 11
     }
   ]
 }
